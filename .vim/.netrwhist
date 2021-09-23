@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/mnt/c/Users/guoqin/MemryX/SDK/driver/cyusb_linux_1.0.5/lib'
+let g:netrw_dirhist_2='/mnt/c/Users/guoqin/Documents/FPGA_projects/AN65974'
+let g:netrw_dirhist_3='/mnt/c/Users/guoqin/Documents/FPGA_projects'
+let g:netrw_dirhist_4='/mnt/c/Users/guoqin/Documents'
+let g:netrw_dirhist_5='/home/guoqin/.vim'
